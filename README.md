@@ -1,10 +1,11 @@
-![Avulsion_dataset](https://github.com/user-attachments/assets/f144b490-6f42-4e4f-bf1e-a5fe501ece47)# Ultrasound-Medial-Epicondyle-Avulsion-Dataset
+# Ultrasound-Medial-Epicondyle-Avulsion-Dataset
 
-
+The dataset consists of 16 current and former baseball players (8 normal, 8 avulsion), aged 18–36. 
 ![all](https://github.com/user-attachments/assets/2870f0b4-af09-455f-b6ea-716110c6215e)
 The blue areas indicate normal bone structure, while the orange areas illustrate avulsion and deformity.
 
-![Avulsion_dataset](https://github.com/user-attachments/assets/ab2bec3d-4b68-415b-bc21-bab950a51ef3)
+
+![Avulsion_dataset](https://github.com/user-attachments/assets/a849d2bf-461e-4320-a188-9d92de340ef3)
 
 
 We will make the entire dataset publicly available after the publication of our paper.
