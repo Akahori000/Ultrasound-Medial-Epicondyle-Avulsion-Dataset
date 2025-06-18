@@ -13,6 +13,10 @@ The blue areas indicate the normal structure of the humeral epicondyle, while th
 
 <img src="https://github.com/user-attachments/assets/a849d2bf-461e-4320-a188-9d92de340ef3" width="50%">
 
+The images were acquired using musculoskeletal ultrasonography (SONIMAGE MX1, KONICA MINOLTA, Tokyo, Japan) with an 11-MHz linear probe by three experienced orthopedic surgeons.
+The participants lay on a bed with their elbows flexed at 90 degrees. Then, a surgeon moved the gel-applied probe around the medial elbow.
+
+
 The full dataset will be made publicly available following the publication of our paper.  
 
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
