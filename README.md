@@ -16,6 +16,8 @@ The images were acquired using musculoskeletal ultrasonography (SONIMAGE MX1, KO
 The participants lay on a bed with their elbows flexed at 90 degrees. Then, a surgeon moved the gel-applied probe around the medial elbow.
 
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
 Dataset link: https://drive.google.com/drive/folders/1KmhhIIU0JUir6MtfmkzJDzsfzQJqyAgG?usp=sharing
+
 Pixel-wise annotations are provided in `.bmp` format.
 
