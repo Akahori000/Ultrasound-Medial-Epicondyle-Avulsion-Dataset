@@ -1,7 +1,6 @@
 # Ultrasound-Medial-Epicondyle-Avulsion-Dataset
 
-This dataset consists of ultrasound images from 16 current and former baseball players (8 normal, 8 with avulsion), aged between 18 and 36.  
-Pixel-wise annotations are provided in `.bmp` format.
+This dataset comprises ultrasound images from 16 current and former baseball players (8 normal and 8 with avulsion), aged between 18 and 36 years.  
 
 <br>
 
@@ -16,7 +15,7 @@ The blue areas indicate the normal structure of the humeral epicondyle, while th
 The images were acquired using musculoskeletal ultrasonography (SONIMAGE MX1, KONICA MINOLTA, Tokyo, Japan) with an 11-MHz linear probe by three experienced orthopedic surgeons.
 The participants lay on a bed with their elbows flexed at 90 degrees. Then, a surgeon moved the gel-applied probe around the medial elbow.
 
-
-The full dataset will be made publicly available following the publication of our paper.  
-
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+Dataset link: https://drive.google.com/drive/folders/1KmhhIIU0JUir6MtfmkzJDzsfzQJqyAgG?usp=sharing
+Pixel-wise annotations are provided in `.bmp` format.
+
