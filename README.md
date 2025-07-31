@@ -1,5 +1,7 @@
 # Ultrasound-Medial-Epicondyle-Avulsion-Dataset
 
+[https://arxiv.org/abs/2507.20104](Paper(MVA2025))
+
 This dataset comprises ultrasound images from 16 current and former baseball players (8 normal and 8 with avulsion), aged between 18 and 36 years.  
 
 <br>
