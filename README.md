@@ -2,7 +2,7 @@
 
 [Paper(MVA2025)](https://arxiv.org/abs/2507.20104)
 
-This dataset comprises ultrasound images from 16 current and former baseball players (8 normal and 8 with avulsion), aged between 18 and 36 years.  
+This dataset consists of ultrasound images of 16 current and former professional baseball players (8 normal and 8 with avulsion fractures), including 112 normal images and 112 avulsion images, for a total of 224 images. Participants are males aged 18 to 36 years old.
 
 <br>
 
