@@ -26,14 +26,13 @@ Pixel-wise annotations are provided in `.bmp` format.
 If you use this dataset in your research, please cite our paper:
 
 
+```bibtex
 @INPROCEEDINGS{11175110,
-
   author={Akahori, Shizuka and Teruya, Shotaro and Shrestha, Pragyan and Yoshii, Yuichi and Iizuka, Satoshi and Ikumi, Akira and Tsuge, Hiromitsu and Kitahara, Itaru},
-  
   booktitle={2025 19th International Conference on Machine Vision and Applications (MVA)}, 
-  
   title={Detection of Medial Epicondyle Avulsion in Elbow Ultrasound Images via Bone Structure Reconstruction}, 
-  
   year={2025},
-  
-  doi={10.23919/MVA65244.2025.11175110}}
+  pages={1-5},
+  doi={10.23919/MVA65244.2025.11175110}
+}
+```
